@@ -1,0 +1,24 @@
+#second {
+	color: pink;
+}
+
+* {
+	color: lawngreen !important;
+}
+
+.blue {
+	color: blue;
+}
+
+.purple {
+	color: purple;
+}
+
+h3 {
+	color: fuchsia;
+	color: orange !important;
+}
+
+h3 {
+	color: olive;
+}
